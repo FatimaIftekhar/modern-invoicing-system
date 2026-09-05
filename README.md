@@ -2,6 +2,10 @@
 
 A full-stack mini invoicing system built with React, Node.js, Express, and MongoDB.
 
+Test Credentials - 
+E-mail - test@example.com
+Password - test1234
+
 ## Features
 
 - User registration and login
